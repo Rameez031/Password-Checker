@@ -63,3 +63,4 @@ if password:
             st.write(item)
     else:
         st.success("✅ Your password meets all recommended criteria!")
+        
